@@ -4,7 +4,7 @@
 During my internship at Eitacies Inc., I worked on innovative projects focused on enhancing the efficiency and security of conference calls applications such as Zoom, Webex, and MS Teams and detecting sensitive content through advanced text, audio, and video analysis. The work involved developing machine learning and deep learning models, applying NLP techniques, and integrating detection systems for real-time and post-event analysis.
 
 ## Goals and Objectives
-- **primary goals** :
+- **Primary goals** :
   - Design and implement systems to detect inappropriate and sensitive content during conference calls in real time.
   - Ensure data security and compliance while processing sensitive information.
 - **Key Focus Areas**
